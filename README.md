@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**gabrielnrangel/gabrielnrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Gabriel Nascimento Rangel
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou um entusiasta de tecnologia apaixonado por desenvolvimento web. Atualmente, estou focado em aprimorar minhas habilidades em HTML, CSS e estou iniciando minha jornada em JavaScript. Estou sempre em busca de aprender e aprimorar minhas habilidades para criar experiências web incríveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+## Projetos
+Aqui estão alguns dos meus projetos mais recentes:
+
+- [Projeto 1](https://github.com/gabrielnrangel/projeto-mario-git): Projeto Mario.
+
+## Contato
+<a href="https://www.linkedin.com/in/gabriel-nascimento-rangel-376293128/" target="_blank">
+<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a/>
+
+<br>
+<br>
+
+##
+
+[![Gabriel Stats](https://github-readme-stats.vercel.app/api?username=gabrielnrangel)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnrangel)](https://github.com/anuraghazra/github-readme-stats)
