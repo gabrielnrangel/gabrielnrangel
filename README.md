@@ -16,7 +16,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Projeto 1](https://github.com/gabrielnrangel/projeto-mario-git): Projeto Mario.
 
 ## Contato
-<a href="https://www.linkedin.com/in/gabriel-nascimento-rangel-376293128/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-nascimento-rangel/" target="_blank">
 <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a/>
 
